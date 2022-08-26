@@ -1,7 +1,8 @@
-1.��ϵͳ��Ҫ������ͼƬ����E:\\ImagesData\\img\\Ŀ¼�£�ͼƬ��׼��Ϣ����E:\\ImagesData\\img_attr\\Ŀ¼�¡�
+1.本系统需要将人脸图片放在E:\\ImagesData\\img\\目录下；图片标准信息放在E:\\ImagesData\\img_attr\\目录下。
 
-2.���Ӳ��ɹ���ע���Ƿ���ͬһ�������ڣ�����ǽ�Ƿ�رգ�����������ͬһ�������͹رշ���ǽ��
+2.连接不成功则注意是否在同一局域网内，防火墙是否关闭，若否需连接同一局域网和关闭防火墙。
 
-3.���ٶ�����ʶ��sdk��Ҫ��֤�ܳ���ArcSoftServiceOutsourcing_2\ArcSoftFaceRecogComputingServer\license�ļ���
-���Գ�������������֤������ı䣬��Ҫ���ٶ�sdk������ȡ��Ʒ�����롣
+3.若百度人脸识别sdk需要验证密匙在ArcSoftServiceOutsourcing_2\ArcSoftFaceRecogComputingServer\license文件中
+若仍出错则是由于认证计算机改变，需要到百度sdk官网获取产品激活码。
 
+4.jar文件需要在jdk-15.0.1以上环境配置
